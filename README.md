@@ -108,7 +108,9 @@ npm run start
 
 ## 📄 License
 
-> 待定 —— 开源前请确认协议，并在仓库根目录添加 `LICENSE` 文件声明。
+[MIT](LICENSE) — Copyright (c) 2026 YuanNeo (fhjowe)
+
+> 可自由使用 / 修改 / 商用 / 闭源，但需保留版权与许可声明。详见 `LICENSE` 文件。
 
 ## 🙏 鸣谢
 
