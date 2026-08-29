@@ -15,3 +15,17 @@ Thumbs.db
 
 # 构建产物 RPK
 *.rpk
+
+# 密钥/证书类文件（绝不入库）
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+*.jks
+*.keystore
+.env
+.env.*
+secrets/
+config/*.local.json
